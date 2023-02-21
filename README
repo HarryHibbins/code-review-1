@@ -1,0 +1,10 @@
+School reports
+
+Get a string of comma sperated value test results => "Green, Green, Amber, Red, Green"
+
+build a report
+"Green: 3\nAmber: 1\nRed: 1"
+
+
+
+
